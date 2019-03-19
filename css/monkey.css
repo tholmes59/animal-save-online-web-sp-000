@@ -10,8 +10,8 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (min-width: 406px) {
+@media only screen and (max-width: 406px) {
   #monkey {
-    top: 15px;
+    top: 10px;
   }
 }
